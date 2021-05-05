@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RunnerThing</string>
+    <string name="retry">Retry</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="you_win">You Win!!!</string>
+    <string name="game_over">Game Over</string>
+    <string name="play">Play</string>
+    <string name="runner_thing">Runner Thing</string>
+    <string name="about">About</string>
+    <string name="about_desc">Press and hold to jump\nLet go to stop jumping\nAvoid obstacles to gain points\nDifficulty is raised each level</string>
+    <string name="music">Music</string>
+</resources>
